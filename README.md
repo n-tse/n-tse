@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! 👋 I'm Nicholas - welcome to my GitHub!
+# Hi there! 👋 I'm Nick - welcome to my GitHub!
 
 ## 👨‍💻 Junior Full-Stack Software Developer | 🌐 Web & Mobile App Developer
 
 ### 📚 About Me
-I'm a driven and dedicated Junior Full-Stack Software Developer with 1.5 years of experience building dynamic SPA web apps using React, JavaScript, HTML/CSS, Node.js, Express, and MongoDB. I'm also familiar with C#, MySql, .NET, React Redux, Render.com for BaaS, Bootstrap, and Postman. Currently, I'm learning TypeScript and exploring mobile development with Flutter and Dart. I recently deployed a MERN full-stack CRUD application called 'Job App Tracker' on Render.com to help me keep track of my job search journey. This app allows me to manage job listings, track application status, and store responses in a MongoDB database through custom-built REST APIs.
+I'm a driven and dedicated Junior Full-Stack Software Developer with 1.5 years of experience building dynamic SPA web apps using React, JavaScript, HTML/CSS, Node.js, Express, and MongoDB. I'm also familiar with C#, MySql, .NET, React Redux, WebSockets, Socket.io, Render.com for BaaS, Bootstrap, and Postman. Currently, I'm learning TypeScript and exploring mobile development with Flutter and Dart. I recently deployed a MERN full-stack CRUD application called [Job App Tracker](https://ntse-mern-job-app-tracker-client.onrender.com/) on Render.com to help me keep track of my job search journey. This app allows me to manage job listings, track application status, and store responses in a MongoDB database through custom-built REST APIs.
 
 ### 🔧 Technologies & Tools
-React, JavaScript, TypeScript, HTML/CSS, React Redux, MongoDB, Node.js, Express, Flutter, Dart, Postman, C#, .NET, MySql, .NET, Bootstrap, Webpack, Babel
+React, JavaScript, TypeScript, HTML/CSS, React Redux, MongoDB, Node.js, Express, Flutter, Dart, Postman, C#, .NET, MySql, .NET, WebSockets, Socket.io, Bootstrap, Webpack, Babel
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -81,10 +81,13 @@ React, JavaScript, TypeScript, HTML/CSS, React Redux, MongoDB, Node.js, Express,
 
 
 ### 🚀 Notable Projects
-- [Job App Tracker](https://github.com/n-tse/mern-job-app-tracker)- A MERN full-stack CRUD application to help me keep track of my job search journey.
+- [Job App Tracker](https://ntse-mern-job-app-tracker-client.onrender.com/) - A MERN full-stack CRUD application to help me keep track of my job search journey.
+  - [View Repo](https://github.com/n-tse/mern-job-app-tracker)
+- Chatterbox - A full-stack chat app built using React, Redux, React Router DOM, Socket.io, Node.js, Express, Mongoose, Bcrypt, Bootstrap, and Cloudinary. Users can sign up , log in, add their own profile picture, and chat with other users in real time via the chat rooms or direct messages.
+  - [View Repo](https://github.com/n-tse/chat-app-mern)
 
 ### ⚡ Fun Fact
-I'm part of a Chinese yo-yo performance group that has performed internationally in both the US and Canada.
+I'm part of a Chinese yo-yo performance group that has performed internationally in both the US and Canada! You can view one of our performances [here](https://youtu.be/UBe1vGEWTiY?t=6225s). (I appear from backstage about 45 seconds into the performance 😎)
 
 ### 🌍 Hobbies & Interests
 Sports (🏀 basketball, 🎾 tennis, ⛳ golf, 🏓 table tennis), Gaming 🎮 (Genshin Impact, Super Smash Bros Ultimate), anime 🌸, chess ♟️, bubble tea 🧋, cooking 🍳, fishing 🎣, hiking ⛰️
