@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/n-tse/n-tse/assets/101606128/ca5c1f1a-42b2-42a2-89f7-76940545fcba)
+
 # Hi there! 👋 I'm Nick - welcome to my GitHub!
 
 ## 👨‍💻 Full-Stack Software Developer | 🌐 Web & Mobile App Developer
@@ -86,8 +88,8 @@ React, JavaScript, TypeScript, HTML/CSS, React Redux, MongoDB, Node.js, Express,
   - [View Repo](https://github.com/n-tse/mern-job-app-tracker)
 - Chatterbox - A full-stack chat app built using React, Redux, React Router DOM, Socket.io, Node.js, Express, Mongoose, Bcrypt, Bootstrap, and Cloudinary. Users can sign up, log in, add their own profile picture, and chat with other users in real time via the chat rooms or direct messages.
   - [View Repo](https://github.com/n-tse/chat-app-mern)
-- FlutterMovieApp - a mobile application built using Flutter and Dart that fetches movie data from The Movie Database (TMDb) and displays the results to the screen.
-  - [View Repo](https://github.com/n-tse/flutter_MovieApp)
+- FlutterRecipeList - A mobile application built using Flutter and Dart that allows users to view a list of recipes and open links to recipe directions.
+  - [View Repo](https://github.com/n-tse/flutter_RecipeList)
 
 ### ⚡ Fun Fact
 I'm part of a Chinese yo-yo performance group that has performed internationally in both the US and Canada! You can view one of our performances [here](https://youtu.be/UBe1vGEWTiY?t=6225s). (I'm the fifth team member that appears from backstage about 45 seconds into the performance 😎)
